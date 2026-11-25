@@ -1,0 +1,5 @@
+features,mean_AUC,ci_lo,ci_hi,pairs,above_0_5
+old length/steps,0.521,0.483,0.561,24,13
+history only,0.486,0.45,0.525,24,10
+file+project churn,0.538,0.5,0.581,24,14
+all old-release,0.559,0.525,0.594,24,19

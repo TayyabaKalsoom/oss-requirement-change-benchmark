@@ -1,0 +1,25 @@
+design,features,project,mean_AUC,lo,hi,pairs,above_half
+same-project earlier releases,old length/steps,diaspora,0.561,0.504,0.618,11,6
+same-project earlier releases,old length/steps,gitlab,0.536,0.488,0.586,21,11
+same-project earlier releases,old length/steps,ALL,0.545,0.508,0.582,32,17
+same-project earlier releases,history only,diaspora,0.498,0.448,0.548,11,5
+same-project earlier releases,history only,gitlab,0.519,0.465,0.571,21,13
+same-project earlier releases,history only,ALL,0.512,0.474,0.55,32,18
+same-project earlier releases,file+project churn,diaspora,0.498,0.462,0.536,11,5
+same-project earlier releases,file+project churn,gitlab,0.524,0.479,0.571,21,14
+same-project earlier releases,file+project churn,ALL,0.515,0.482,0.553,32,19
+same-project earlier releases,all old-release,diaspora,0.498,0.441,0.555,11,5
+same-project earlier releases,all old-release,gitlab,0.521,0.464,0.574,21,12
+same-project earlier releases,all old-release,ALL,0.513,0.47,0.554,32,17
+other projects + same-project earlier,old length/steps,diaspora,0.506,0.451,0.565,11,6
+other projects + same-project earlier,old length/steps,gitlab,0.502,0.443,0.562,21,10
+other projects + same-project earlier,old length/steps,ALL,0.503,0.461,0.544,32,16
+other projects + same-project earlier,history only,diaspora,0.5,0.451,0.547,11,5
+other projects + same-project earlier,history only,gitlab,0.538,0.483,0.593,21,10
+other projects + same-project earlier,history only,ALL,0.524,0.485,0.567,32,15
+other projects + same-project earlier,file+project churn,diaspora,0.501,0.473,0.528,11,5
+other projects + same-project earlier,file+project churn,gitlab,0.518,0.476,0.565,21,13
+other projects + same-project earlier,file+project churn,ALL,0.512,0.481,0.541,32,18
+other projects + same-project earlier,all old-release,diaspora,0.537,0.496,0.574,11,9
+other projects + same-project earlier,all old-release,gitlab,0.536,0.485,0.589,21,13
+other projects + same-project earlier,all old-release,ALL,0.537,0.501,0.574,32,22

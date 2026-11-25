@@ -1,0 +1,8 @@
+features,mean_AUC,median,min,max,pairs,pairs_above_0_5
+old length/steps,0.52,0.507,0.331,0.799,27,15
+history only,0.469,0.487,0.148,0.734,27,9
+history+file churn,0.509,0.493,0.403,0.707,27,11
+all old-release,0.539,0.541,0.435,0.706,27,16
+RULE changed last time,0.519,0.487,0.269,0.895,27,13
+RULE prior change count,0.52,0.506,0.379,0.798,27,16
+RULE file churn prev,0.513,0.506,0.392,0.857,27,14
